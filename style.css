@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: powderblue;
+    background-color: #EFEFEF;
 }
 label{
     font-size: 30px;
@@ -29,7 +29,7 @@ input[type="text"] {
 .button {
     padding: 10px;
     font-size: 1em;
-    background-color: blue;
+    background-color: #017da6;
     color: white;
     border: none;
     border-radius: 5px;
@@ -37,5 +37,5 @@ input[type="text"] {
 }
 
 .button:hover {
-    background-color: darkblue;
+    background-color: #00A8DF;
 }
