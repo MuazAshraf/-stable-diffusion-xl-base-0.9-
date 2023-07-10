@@ -1,0 +1,13 @@
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <form method="POST">
+        <label for="prompt">Prompt: </label>
+        <input type="text" id="prompt" name="prompt" placeholder="Enter Query...">
+    <br/>
+        <input type="submit" value="Generate Image" class="button">
+    </form>
+</body>
+</html>
