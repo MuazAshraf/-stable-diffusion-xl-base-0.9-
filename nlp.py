@@ -19,5 +19,3 @@ image = Image.open(io.BytesIO(image_bytes))
 
 # Save the image to a file
 image.save('output_image.jpg', 'JPEG')
-# Open the image
-os.startfile('output_image.jpg', 'JPEG')
