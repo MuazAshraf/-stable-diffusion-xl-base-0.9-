@@ -29,7 +29,7 @@ input[type="text"] {
 .button {
     padding: 10px;
     font-size: 1em;
-    background-color: #017da6;
+    background-color: #00A8DF;
     color: white;
     border: none;
     border-radius: 5px;
@@ -37,5 +37,5 @@ input[type="text"] {
 }
 
 .button:hover {
-    background-color: #00A8DF;
+    background-color: #0382ad;
 }
