@@ -1,1 +1,1 @@
-# -stable-diffusion-xl-base-0.9-
+# stabilityai/stable-diffusion-2-1
